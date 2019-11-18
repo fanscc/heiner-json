@@ -1130,7 +1130,8 @@
         ],
         "defaults": [
             "response-props"
-        ]
+        ],
+        "description": "巴图鲁地址选择器"
     },
     "hn-viewer": {
         "attributes": [
@@ -1138,7 +1139,8 @@
         ],
         "defaults": [
             "images"
-        ]
+        ],
+        "description": "巴图鲁Viewer 相册"
     },
     "hn-section-header": {
         "attributes": [
@@ -1146,7 +1148,8 @@
         ],
         "defaults": [
             "title"
-        ]
+        ],
+        "description": "巴图鲁页面章节头部"
     },
     "hn-countdown": {
         "attributes": [
@@ -1154,7 +1157,8 @@
         ],
         "defaults": [
             "type"
-        ]
+        ],
+        "description": "巴图鲁倒计时"
     },
     "hn-step-bar": {
         "attributes": [
@@ -1165,7 +1169,8 @@
         ],
         "defaults": [
             "active"
-        ]
+        ],
+        "description": "巴图鲁步骤条"
     },
     "hn-step-node": {
         "attributes": [
@@ -1185,6 +1190,7 @@
         ],
         "defaults": [
             "isActive"
-        ]
+        ],
+        "description": "巴图鲁部分折叠"
     }
 }

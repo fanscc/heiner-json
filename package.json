@@ -1,0 +1,12 @@
+{
+  "name": "heiner-new",
+  "version": "0.1.1",
+  "description": "heiner组件联想配置",
+  "author": "fanscky",
+  "private": false,
+  "main": "heiner-tags.json",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

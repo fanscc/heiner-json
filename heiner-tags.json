@@ -1167,6 +1167,16 @@
             "active"
         ]
     },
+    "hn-step-node": {
+        "attributes": [
+            "header-title",
+            "header-description",
+            "description"
+        ],
+        "defaults": [
+            "header-title"
+        ]
+    },
     "hn-partial-collapse": {
         "attributes": [
             "isActive",
